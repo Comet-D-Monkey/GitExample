@@ -2,4 +2,8 @@
 ANumber: 145
 AFloat: 19.8075
 AString: Hello there Trey!
-AQutoedString: "Quotes are perfectly acceptable."
+
+         This is the second line of my string.
+AQutoedString: "Quotes are perfectly acceptable.\nThat's right, a new line escape!"
+Active: false 
+
