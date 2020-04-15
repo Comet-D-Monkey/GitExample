@@ -7,4 +7,6 @@ documents = load_all(stream, Loader=yaml.FullLoader)
 print(type(documents))
 
 for doc in documents:
-    print(type())
+    print(type(doc))
+
+    print(doc['people'][1]['LastName'])
