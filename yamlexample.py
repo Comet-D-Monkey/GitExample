@@ -10,3 +10,4 @@ for doc in documents:
     print(type(doc))
 
     print(doc['people'][1]['LastName'])
+    
